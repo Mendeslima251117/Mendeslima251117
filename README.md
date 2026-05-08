@@ -22,7 +22,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software 
 - MongoDB
 - APIs REST
 - SQL
-- .NET
+- DOT.NET
 - HTML/CSS/JavaScript
 
 Tenho interesse em desenvolvimento Back-end, automações e sistemas desktop/web.
