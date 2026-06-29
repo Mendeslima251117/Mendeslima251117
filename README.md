@@ -4,11 +4,11 @@
 <h1 align="center">👋 Olá, eu sou o Willian Mendes de Lima</h1>
 
 <h3 align="center">
-💻 Analista de Sistemas Jr | 🚀 Desenvolvedor Java | 🛠️ Suporte de TI
+💻 Desenvolvedor Java Jr | 🧠 Analista de Sistemas | 🛠️ Suporte de TI
 </h3>
 
 <p align="center">
-🚀 Foco em desenvolvimento back-end, suporte técnico e criação de sistemas reais
+🚀 Foco em desenvolvimento back-end, suporte técnico e construção de sistemas reais com Java e banco de dados
 </p>
 
 ---
@@ -17,16 +17,18 @@
 
 Profissional formado em Análise e Desenvolvimento de Sistemas, com experiência prática em suporte técnico, atendimento ao usuário e desenvolvimento de sistemas.
 
-Atualmente foco em construir soluções com Java e banco de dados, aplicando boas práticas de desenvolvimento e simulação de cenários reais de empresa.
+Atualmente, estou focado em desenvolvimento back-end com Java, banco de dados e construção de aplicações desktop e sistemas baseados em cenários reais de empresas.
+
+Busco minha primeira oportunidade como Desenvolvedor Java Jr, Analista de Sistemas ou Suporte Técnico.
 
 ---
 
-## 🎯 Áreas de atuação
+## 🎯 Objetivo profissional
 
-- Suporte Técnico (N1 / N2)
-- Assistente de TI
-- Analista de Sistemas Jr
-- Desenvolvedor Java Jr
+- Atuar como Desenvolvedor Java Jr
+- Atuar como Analista de Sistemas Jr
+- Atuar em Suporte Técnico / TI
+- Evoluir na área de desenvolvimento back-end
 
 ---
 
@@ -54,22 +56,25 @@ Atualmente foco em construir soluções com Java e banco de dados, aplicando boa
 
 ## 🚀 Projeto em destaque
 
-### 🖥 Sistema de Clientes Java + MongoDB
+### 🖥 Sistema de Gestão de Clientes (Java + MongoDB)
 
-Sistema desktop desenvolvido para simular um ambiente real de gestão de clientes.
+Sistema desktop desenvolvido para simular um ambiente real de gestão de clientes, aplicando boas práticas de desenvolvimento.
 
-#### ⚙️ Funcionalidades
+#### ⚙️ Principais funcionalidades
 - 🔐 Autenticação com SHA-256  
 - 👤 CRUD completo de usuários  
 - 🗄️ Integração com MongoDB Atlas  
 - 🖥️ Interface gráfica com Java Swing  
-- 📦 Arquitetura MVC básica  
+- 📦 Arquitetura MVC  
 - ⚙️ Gerenciamento com Maven  
 
-#### 🎯 Objetivo
-Demonstrar habilidades práticas em desenvolvimento back-end, banco de dados e construção de sistemas desktop funcionais.
+#### 🎯 O que esse projeto demonstra
+- Lógica de programação aplicada
+- Integração com banco de dados
+- Estruturação de sistemas reais
+- Organização de código em camadas
 
-🔗 Repositório:  
+🔗 Repositório:
 https://github.com/Mendeslima251117/sistema-clientes-java
 
 ---
@@ -86,8 +91,8 @@ https://github.com/Mendeslima251117/sistema-clientes-java
 ## 🌎 Idiomas
 
 - 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — B1 (Intermediário)  
-- 🇪🇸 Espanhol — B1 (Intermediário)
+- 🇺🇸 Inglês — Intermediário (B1)  
+- 🇪🇸 Espanhol — Intermediário (B1)  
 
 ---
 
@@ -98,7 +103,7 @@ https://github.com/Mendeslima251117/sistema-clientes-java
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/seu-perfil">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
