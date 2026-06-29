@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="URL-DO-SEU-BANNER" alt="Banner" />
+</p>
+
 <h1 align="center">👋 Olá, eu sou o Willian Mendes de Lima</h1>
 
 <h3 align="center">
