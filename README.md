@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="URL-DO-SEU-BANNER" alt="Banner" />
-</p>
+
 <img width="1983" height="793" alt="URL-DO-SEU-BANNER" src="https://github.com/user-attachments/assets/19947cdd-5f91-4a30-bae9-ebe9d3de0a7c" />
 
 <h1 align="center">👋 Olá, eu sou o Willian Mendes de Lima</h1>
