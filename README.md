@@ -55,15 +55,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
 <img height="160em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mendeslima251117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="160em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mendeslima251117&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&theme=dark&hide_border=true&cache_seconds=86400"/>
 
 ---
 
