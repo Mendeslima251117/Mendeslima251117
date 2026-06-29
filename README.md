@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Olá! Eu sou o Willian Mendes de Lima</h1>
 
 <h3 align="center">
@@ -9,12 +8,13 @@
 
 ## 🚀 Sobre mim
 
-Sou um profissional com experiência em:
+Sou um profissional formado em Análise e Desenvolvimento de Sistemas, com experiência prática em suporte técnico, atendimento ao cliente e projetos de tecnologia.
 
-✔ Coordenação de projetos  
-✔ Suporte técnico  
-✔ Atendimento ao cliente  
-✔ Controle de produção  
+Tenho forte interesse em atuar nas áreas de:
+- Suporte Técnico (N1 / N2)
+- Assistente de TI
+- Analista de Sistemas Jr
+- Desenvolvimento Back-end Java
 
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software com foco em:
 
@@ -22,10 +22,10 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software 
 - MongoDB
 - APIs REST
 - SQL
-- DOT.NET
-- HTML/CSS/JavaScript
+- .NET
+- HTML / CSS / JavaScript
 
-Tenho interesse em desenvolvimento Back-end, automações e sistemas desktop/web.
+Tenho como objetivo criar soluções eficientes, automatizar processos e evoluir constantemente como profissional de tecnologia.
 
 ---
 
@@ -36,9 +36,7 @@ Tenho interesse em desenvolvimento Back-end, automações e sistemas desktop/web
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -59,7 +57,6 @@ Tenho interesse em desenvolvimento Back-end, automações e sistemas desktop/web
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -69,8 +66,8 @@ Tenho interesse em desenvolvimento Back-end, automações e sistemas desktop/web
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
 ---
@@ -79,7 +76,6 @@ Tenho interesse em desenvolvimento Back-end, automações e sistemas desktop/web
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima251117&layout=compact&theme=tokyonight"/>
 </p>
 
@@ -89,15 +85,18 @@ Tenho interesse em desenvolvimento Back-end, automações e sistemas desktop/web
 
 ## 🖥 Sistema de Clientes Java + MongoDB
 
-Sistema desktop desenvolvido em Java com:
+Sistema desktop desenvolvido em Java com foco em simular um ambiente real de gestão de clientes.
 
-✅ Login com criptografia SHA-256  
-✅ CRUD de usuários  
-✅ Integração MongoDB Atlas  
-✅ Java Swing  
-✅ Maven  
-✅ Tela administrativa  
-✅ Controle de usuários  
+### ⚙️ Funcionalidades:
+- 🔐 Login com criptografia SHA-256
+- 👤 CRUD completo de usuários
+- 🗄️ Integração com MongoDB Atlas
+- 🖥️ Interface gráfica com Java Swing
+- 📦 Arquitetura organizada (MVC básico)
+- ⚙️ Maven para gerenciamento de dependências
+
+### 🎯 Objetivo:
+Demonstrar habilidades práticas em desenvolvimento back-end, banco de dados e criação de sistemas desktop.
 
 🔗 Repositório:  
 https://github.com/Mendeslima251117/sistema-clientes-java
@@ -106,8 +105,8 @@ https://github.com/Mendeslima251117/sistema-clientes-java
 
 # 🌎 Idiomas
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — B1 (Pré-intermediário)
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — B1 (Pré-intermediário)  
 - 🇪🇸 Espanhol — B1 (Pré-intermediário)
 
 ---
@@ -119,12 +118,8 @@ https://github.com/Mendeslima251117/sistema-clientes-java
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:wmllima25@gmail.com">
+<a href="mailto:seuemail@email.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/5519988269622">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 </p>
 
@@ -133,4 +128,3 @@ https://github.com/Mendeslima251117/sistema-clientes-java
 <h3 align="center">
 ⭐ Obrigado por visitar meu perfil!
 </h3>
-
