@@ -46,7 +46,7 @@ Construindo sistemas escaláveis com Java, banco de dados e arquitetura em camad
 
 ---
 
-## 📊 PERFORMANCE NO GITHUB
+## 📊 DESEMPENHO NO GITHUB
 
 <p align="center">
 
@@ -60,7 +60,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima25
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendeslima251117&theme=tokyonight&hide_border=true"/>
+<img height="170em"
+src="https://streak-stats.demolab.com?user=Mendeslima251117&theme=tokyonight&hide_border=true"/>
 
 </p>
 
