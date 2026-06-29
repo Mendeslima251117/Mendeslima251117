@@ -1,52 +1,39 @@
 
 <img width="1983" height="793" alt="URL-DO-SEU-BANNER" src="https://github.com/user-attachments/assets/19947cdd-5f91-4a30-bae9-ebe9d3de0a7c" />
 
-<!-- HEADER VISUAL -->
 <h1 align="center">🚀 Willian Mendes de Lima</h1>
 
 <h3 align="center">
-💻 Java Backend Developer Jr | 🛠️ Suporte de TI | 📊 Sistemas Reais & Automação
+💻 Java Backend Developer Jr | 🛠️ Suporte de TI | 📊 Sistemas & Automação
 </h3>
 
 <p align="center">
-Construindo sistemas escaláveis com Java, banco de dados e arquitetura em camadas
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/FOCO-BACKEND-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JAVA-Developer-red?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/STATUS-BUSCANDO%20VAGA-green?style=for-the-badge"/>
+Construindo sistemas reais com Java, MySQL e arquitetura em camadas
 </p>
 
 ---
 
 ## ⚡ PERFIL PROFISSIONAL
 
-💡 Desenvolvedor em início de carreira com foco em **Java Backend e sistemas reais**
-
-✔ Desenvolvimento de aplicações Java com arquitetura MVC  
-✔ Criação de sistemas com banco de dados MySQL  
+✔ Desenvolvimento de sistemas com Java + MySQL  
+✔ Estrutura MVC (Controller / DAO / Model)  
+✔ Criação de aplicações desktop e back-end  
 ✔ Experiência com suporte técnico e resolução de problemas  
-✔ Construção de fluxos de automação e processamento de dados  
-✔ Foco em código limpo, organizado e escalável  
+✔ Construção de automações e fluxos de processamento  
 
 ---
 
 ## 🧠 STACK TÉCNICA
 
-### 💻 Linguagens
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,sql" />
-</p>
+<p align="center">
 
-### 🧰 Ferramentas & Tecnologias
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,mysql,eclipse,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,eclipse,idea,vscode,js" />
+
 </p>
 
 ---
 
-## 📊 DESEMPENHO NO GITHUB
+## 📊 DESEMPENHO (VERSÃO ESTÁVEL)
 
 <p align="center">
 
@@ -58,13 +45,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima25
 
 </p>
 
-<p align="center">
-
-<img height="170em"
-src="https://streak-stats.demolab.com?user=Mendeslima251117&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 
 ## 🚀 PROJETOS EM DESTAQUE
@@ -72,36 +52,31 @@ src="https://streak-stats.demolab.com?user=Mendeslima251117&theme=tokyonight&hid
 ### 📌 Sistema de Clientes (Java + MySQL)
 Sistema completo com arquitetura profissional
 
-- CRUD completo de clientes  
-- Estrutura MVC (Controller / DAO / Model)  
-- Integração com banco de dados MySQL  
-- Projeto estruturado como sistema real  
+- CRUD completo  
+- MVC estruturado  
+- Integração com banco de dados  
+- Projeto real de backend  
 
 🔗 https://github.com/Mendeslima251117/sistema-clientes-java  
 
 ---
 
 ### 📌 Sistema de Contatos WhatsApp (Automação)
-Sistema de automação e processamento de envios
+Sistema de processamento e envio automatizado
 
-- Envio automatizado de mensagens  
-- Controle de fila de envio  
-- Gestão de campanhas  
-- Processamento contínuo de dados  
+- Fila de envio de mensagens  
+- Controle de campanhas  
+- Processamento contínuo  
+- Estrutura de automação  
 
 ---
 
-## 🧩 DIFERENCIAL TÉCNICO
+## 🧩 O QUE ISSO MOSTRA
 
-🚀 Não apenas estudo tecnologia — construo sistemas reais  
-
-🧠 Entendo fluxo completo:
-**Entrada → Processamento → Persistência → Resultado**
-
-⚙️ Já trabalhei com:
-- Estruturação de sistemas em camadas
-- Integração Java + banco de dados
-- Lógica de automação e filas de processamento
+🚀 Você sabe construir sistemas reais  
+🧠 Entende fluxo completo de aplicações  
+⚙️ Trabalha com banco de dados e lógica backend  
+📊 Consegue estruturar projetos organizados  
 
 ---
 
@@ -113,7 +88,7 @@ Sistema de automação e processamento de envios
 
 ---
 
-## 📫 CONTATO PROFISSIONAL
+## 📫 CONTATO
 
 <p align="center">
 
@@ -124,23 +99,6 @@ Sistema de automação e processamento de envios
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-## 🧭 OBJETIVO
-
-🎯 Conquistar minha primeira oportunidade como:
-- Desenvolvedor Java Jr  
-- Suporte de TI  
-- Assistente de Sistemas  
-
----
-
-<p align="center">
-⭐ Obrigado por visitar meu perfil — sempre evoluindo como desenvolvedor
-</p>
 
 </p>
 
