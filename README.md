@@ -8,22 +8,31 @@
 </h3>
 
 <p align="center">
-🚀 Foco em desenvolvimento back-end, suporte técnico e criação de sistemas reais com Java e banco de dados
+🚀 Desenvolvedor focado em back-end, criação de sistemas e suporte técnico com Java e banco de dados
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
+💡 Profissional em início de carreira na área de tecnologia, com foco em desenvolvimento Java e suporte técnico.
+
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- ☕ Foco em Java e desenvolvimento back-end  
+- ☕ Foco em Java (POO, MVC e aplicações desktop/back-end)  
 - 🛠️ Experiência com suporte técnico e manutenção de sistemas  
-- 🗄️ Conhecimento em banco de dados e sistemas em camadas  
-- 🚀 Buscando primeira oportunidade profissional em TI  
+- 🗄️ Banco de dados MySQL e modelagem básica  
+- 🚀 Buscando primeira oportunidade como Dev Júnior ou Suporte de TI  
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## ⚙️ Tecnologias
 
 ### 💻 Linguagens
 - Java
@@ -31,27 +40,27 @@
 - JavaScript (básico)
 
 ### 🧠 Conceitos
-- Programação orientada a objetos (POO)
-- Arquitetura em camadas (MVC)
+- Programação Orientada a Objetos (POO)
+- MVC (Arquitetura em camadas)
 - Integração com banco de dados
 - Lógica de programação
 
 ### 🛠️ Ferramentas
 - Git & GitHub
-- Eclipse / IntelliJ
+- Eclipse / IntelliJ IDEA
 - MySQL
 - Maven
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="160em" 
-src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160em"
+src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-<img height="160em" 
+<img height="160em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima251117&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -61,17 +70,22 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima25
 ## 🚀 Projetos em destaque
 
 ### 📌 Sistema de Clientes Java
-- CRUD completo com Java + banco de dados  
-- Estrutura em camadas (Controller / DAO / Model)  
-- Integração com MySQL  
-🔗 https://github.com/Mendeslima251117/sistema-clientes-java
+Sistema completo com arquitetura em camadas
+
+- CRUD com Java + MySQL  
+- Padrão MVC (Controller / DAO / Model)  
+- Integração com banco de dados  
+
+🔗 https://github.com/Mendeslima251117/sistema-clientes-java  
 
 ---
 
 ### 📌 Sistema de Contatos WhatsApp (automação)
+Projeto de automação e controle de campanhas
+
 - Envio automatizado de mensagens  
-- Controle de fila e campanhas  
-- Dashboard com métricas em tempo real  
+- Fila de processamento de contatos  
+- Controle de campanhas e métricas  
 
 ---
 
@@ -86,8 +100,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima25
 ## 📫 Contato
 
 <p align="center">
-<a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
