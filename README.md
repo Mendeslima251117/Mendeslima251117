@@ -1,82 +1,110 @@
 
 <img width="1983" height="793" alt="URL-DO-SEU-BANNER" src="https://github.com/user-attachments/assets/19947cdd-5f91-4a30-bae9-ebe9d3de0a7c" />
 
-<h1 align="center">👋 Olá, eu sou o Willian Mendes de Lima</h1>
+<!-- HEADER VISUAL -->
+<h1 align="center">🚀 Willian Mendes de Lima</h1>
 
 <h3 align="center">
-💻 Desenvolvedor Java Jr | 🛠️ Suporte de TI | 🚀 Foco em back-end e sistemas reais
+💻 Java Backend Developer Jr | 🛠️ Suporte de TI | 📊 Sistemas Reais & Automação
 </h3>
 
 <p align="center">
-Construindo sistemas com Java, banco de dados e arquitetura em camadas
-</p>
-
----
-
-## 🚀 Impacto Profissional
-
-✔ Desenvolvimento de sistemas com Java + MySQL  
-✔ Criação de aplicações desktop e back-end estruturado (MVC)  
-✔ Experiência com suporte técnico e resolução de problemas reais  
-✔ Organização de dados, filas e processos automatizados  
-✔ Foco em construir soluções funcionais e escaláveis  
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,eclipse,idea,js" />
-
-</p>
-
----
-
-## 📊 GitHub em Destaque
-
+Construindo sistemas escaláveis com Java, banco de dados e arquitetura em camadas
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/FOCO-BACKEND-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-Developer-red?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/STATUS-BUSCANDO%20VAGA-green?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚡ PERFIL PROFISSIONAL
+
+💡 Desenvolvedor em início de carreira com foco em **Java Backend e sistemas reais**
+
+✔ Desenvolvimento de aplicações Java com arquitetura MVC  
+✔ Criação de sistemas com banco de dados MySQL  
+✔ Experiência com suporte técnico e resolução de problemas  
+✔ Construção de fluxos de automação e processamento de dados  
+✔ Foco em código limpo, organizado e escalável  
+
+---
+
+## 🧠 STACK TÉCNICA
+
+### 💻 Linguagens
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,sql" />
+</p>
+
+### 🧰 Ferramentas & Tecnologias
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,mysql,eclipse,idea,vscode" />
+</p>
+
+---
+
+## 📊 PERFORMANCE NO GITHUB
+
+<p align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima251117&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendeslima251117&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 💼 Projetos em Destaque
+## 🚀 PROJETOS EM DESTAQUE
 
-### 📌 Sistema de Clientes Java (CRUD completo)
+### 📌 Sistema de Clientes (Java + MySQL)
 Sistema completo com arquitetura profissional
 
-- Java + MySQL  
-- MVC (Controller / DAO / Model)  
 - CRUD completo de clientes  
-- Estrutura de projeto real  
+- Estrutura MVC (Controller / DAO / Model)  
+- Integração com banco de dados MySQL  
+- Projeto estruturado como sistema real  
 
 🔗 https://github.com/Mendeslima251117/sistema-clientes-java  
 
 ---
 
-### 📌 Sistema de Contatos WhatsApp (automação)
-Projeto com foco em automação e processamento
+### 📌 Sistema de Contatos WhatsApp (Automação)
+Sistema de automação e processamento de envios
 
 - Envio automatizado de mensagens  
 - Controle de fila de envio  
-- Sistema de campanhas  
-- Lógica de processamento contínuo  
+- Gestão de campanhas  
+- Processamento contínuo de dados  
 
 ---
 
-## 🧠 O que isso mostra sobre mim
+## 🧩 DIFERENCIAL TÉCNICO
 
-- Consigo estruturar sistemas completos  
-- Sei trabalhar com banco de dados e lógica real de sistema  
-- Entendo fluxo de aplicações (entrada → processamento → saída)  
-- Tenho base sólida para evolução para backend profissional  
+🚀 Não apenas estudo tecnologia — construo sistemas reais  
+
+🧠 Entendo fluxo completo:
+**Entrada → Processamento → Persistência → Resultado**
+
+⚙️ Já trabalhei com:
+- Estruturação de sistemas em camadas
+- Integração Java + banco de dados
+- Lógica de automação e filas de processamento
 
 ---
 
-## 🌎 Idiomas
+## 🌎 IDIOMAS
 
 - 🇧🇷 Português — Nativo  
 - 🇺🇸 Inglês — Intermediário (B1)  
@@ -84,17 +112,34 @@ Projeto com foco em automação e processamento
 
 ---
 
-## 📫 Contato
+## 📫 CONTATO PROFISSIONAL
 
 <p align="center">
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+## 🧭 OBJETIVO
+
+🎯 Conquistar minha primeira oportunidade como:
+- Desenvolvedor Java Jr  
+- Suporte de TI  
+- Assistente de Sistemas  
+
+---
+
+<p align="center">
+⭐ Obrigado por visitar meu perfil — sempre evoluindo como desenvolvedor
+</p>
 
 </p>
 
