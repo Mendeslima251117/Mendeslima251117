@@ -4,81 +4,83 @@
 <h1 align="center">👋 Olá, eu sou o Willian Mendes de Lima</h1>
 
 <h3 align="center">
-💻 Analista de Sistemas Jr | ☕ Desenvolvedor Java em formação | 🛠️ Suporte de TI
+💻 Desenvolvedor Java Jr | 🛠️ Suporte de TI | 🚀 Foco em back-end e sistemas reais
 </h3>
 
 <p align="center">
-🚀 Desenvolvedor focado em back-end, criação de sistemas e suporte técnico com Java e banco de dados
+Construindo sistemas com Java, banco de dados e arquitetura em camadas
+</p>
+
+---
+
+## 🚀 Impacto Profissional
+
+✔ Desenvolvimento de sistemas com Java + MySQL  
+✔ Criação de aplicações desktop e back-end estruturado (MVC)  
+✔ Experiência com suporte técnico e resolução de problemas reais  
+✔ Organização de dados, filas e processos automatizados  
+✔ Foco em construir soluções funcionais e escaláveis  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,eclipse,idea,js" />
+
+</p>
+
+---
+
+## 📊 GitHub em Destaque
+
+<p align="center">
+
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="165em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima251117&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mendeslima251117&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 💼 Projetos em Destaque
 
-💡 Profissional em início de carreira na área de tecnologia, com foco em desenvolvimento Java e suporte técnico.
+### 📌 Sistema de Clientes Java (CRUD completo)
+Sistema completo com arquitetura profissional
 
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- ☕ Foco em Java (POO, MVC e aplicações desktop/back-end)  
-- 🛠️ Experiência com suporte técnico e manutenção de sistemas  
-- 🗄️ Banco de dados MySQL e modelagem básica  
-- 🚀 Buscando primeira oportunidade como Dev Júnior ou Suporte de TI  
-
----
-
-## ⚙️ Tecnologias
-
-### 💻 Linguagens
-- Java
-- SQL
-- JavaScript (básico)
-
-### 🧠 Conceitos
-- Programação Orientada a Objetos (POO)
-- MVC (Arquitetura em camadas)
-- Integração com banco de dados
-- Lógica de programação
-
-### 🛠️ Ferramentas
-- Git & GitHub
-- Eclipse / IntelliJ IDEA
-- MySQL
-- Maven
-
----
-
-## 📊 GitHub Stats
-
-<img height="160em"
-src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&theme=dark&hide_border=true&cache_seconds=86400"/>
-
----
-
-## 🚀 Projetos em destaque
-
-### 📌 Sistema de Clientes Java
-Sistema completo com arquitetura em camadas
-
-- CRUD com Java + MySQL  
-- Padrão MVC (Controller / DAO / Model)  
-- Integração com banco de dados  
+- Java + MySQL  
+- MVC (Controller / DAO / Model)  
+- CRUD completo de clientes  
+- Estrutura de projeto real  
 
 🔗 https://github.com/Mendeslima251117/sistema-clientes-java  
 
 ---
 
 ### 📌 Sistema de Contatos WhatsApp (automação)
-Projeto de automação e controle de campanhas
+Projeto com foco em automação e processamento
 
 - Envio automatizado de mensagens  
-- Fila de processamento de contatos  
-- Controle de campanhas e métricas  
+- Controle de fila de envio  
+- Sistema de campanhas  
+- Lógica de processamento contínuo  
+
+---
+
+## 🧠 O que isso mostra sobre mim
+
+- Consigo estruturar sistemas completos  
+- Sei trabalhar com banco de dados e lógica real de sistema  
+- Entendo fluxo de aplicações (entrada → processamento → saída)  
+- Tenho base sólida para evolução para backend profissional  
 
 ---
 
@@ -93,17 +95,19 @@ Projeto de automação e controle de campanhas
 ## 📫 Contato
 
 <p align="center">
+
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ Obrigado por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil
 </p>
