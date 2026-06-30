@@ -38,10 +38,10 @@ Construindo sistemas reais com Java, MySQL e arquitetura em camadas
 <p align="center">
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Mendeslima251117&theme=tokyonight&show_icons=true&hide_border=true&cache_seconds=1800"/>
 
 <img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima251117&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendeslima251117&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
